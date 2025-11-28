@@ -1,5 +1,7 @@
 <div align="center">
-# Pseudocode Keywords Reference — English
+    <h1 align="center">
+      <span style="color:#7B68EE;">Pseudocode</span> <span style="color:#FF4D9D;">Keywords</span> <span style="color:#FF8A00;">Reference - </span><span style="color:#E76F00;">English and Portugues</span>
+    </h1>
 </div>
 
 ## Declare
