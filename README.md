@@ -1,4 +1,6 @@
+<div align="center">
 # Pseudocode Keywords Reference — English
+</div>
 
 ## Declare
 Used to declare variables or method references.
