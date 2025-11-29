@@ -252,8 +252,8 @@ Example: **Check** the user input using `checkUser(String x)`.
 Used to increase or decrease numeric values.
 <br>
 Examples:
-- **IncremGBt** the value from `x`.
-- **DecremGBt** the value from `x`.
+- **Increment** the value from `x`.
+- **Decrement** the value from `x`.
 
 ## 🟧 If / If not / End If (GB)
 Decision-making structures(If, Else If, Else, Switch).
