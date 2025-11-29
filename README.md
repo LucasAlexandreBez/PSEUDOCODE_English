@@ -9,7 +9,7 @@
 
 ### 📚 Wiki Navigation
 
-| 🇧🇷 Português | GB GBglish |
+| 🇧🇷 Português | GB English |
 |-------------|-------------|
 | [Declare](#-declare-pt-br) | [Declare](#-declare-gb) |
 | [Método](#-método--fim-do-método-pt-br) | [Method](#-method--end-method-gb) |
