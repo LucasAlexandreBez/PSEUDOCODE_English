@@ -5,7 +5,7 @@
 ## 🎖️ Badges
 ![Language](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 ![Structure](https://img.shields.io/badge/Wiki%20Style-1E90FF?style=for-the-badge)
-![Dual Language](https://img.shields.io/badge/GBglish%20%2B%20Português-8A2BE2?style=for-the-badge)
+![Dual Language](https://img.shields.io/badge/English%20%2B%20Português-8A2BE2?style=for-the-badge)
 
 ### 📚 Wiki Navigation
 
